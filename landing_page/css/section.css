@@ -1,0 +1,64 @@
+.form-input{
+    padding-bottom: 30px;
+}
+
+.form-input input{
+    width: 45%;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #ffcd458e;
+    border-style: none;
+    padding-left: 15px;
+}
+
+.form-input select{
+    width: 45%;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #ffcd458e;
+    border-style: none;
+    padding-left: 15px;
+}
+
+#asal{
+    margin-left: 10px;
+}
+
+#tujuan{
+    margin-left: -10px;
+}
+
+#paket{
+    margin-left: -2px;
+}
+.form-asal{
+    margin-right: 20px;
+}
+
+.form-tujuan{
+    margin-left: -100px;
+}
+
+.form-berat{
+    margin-left: -90px;
+}
+
+.form-input label{
+    float: left;
+    margin-left: 200px;
+}
+
+#save{
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: #7E370C;
+    color: #FFCE45;
+    margin-bottom: 20px;
+}
+
+.ket {
+    margin-bottom: 40px;
+    margin-left: 200px;
+    text-align: left;
+}

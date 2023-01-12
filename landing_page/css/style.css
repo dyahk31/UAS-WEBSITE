@@ -1,0 +1,10 @@
+@import url(header.css);
+@import url(content.css);
+@import url(section.css);
+@import url(footer.css);
+
+body{
+    background-image: url(/img/bg.png);
+    width: auto;
+    height: auto;
+}
