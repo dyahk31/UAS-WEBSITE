@@ -1,0 +1,47 @@
+@import url(./footer.css);
+body{
+    font-family: 'Inter';
+}
+.navbar-nav{
+    text-align: right;
+}
+
+.bg-image  {
+    background-image: url('hero_img.jpg');
+    background-color: rgba(0, 0,0,0.6);
+    background-size: cover;
+}
+
+.bg-image-txt{
+    color: #FFCE45;
+    text-align: center;
+}
+
+.bg-image-txt h1{
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.bg-image-txt p{
+    font-size: 33px;
+    font-weight: 500;
+}
+
+.bg-image-txt button{
+    background-color: #d4ac2b;
+    border-radius: 30px;
+    font-size: 20px;
+    width: 185px;
+    height: 60px;
+    border-style: none;
+    color: #7e370c;
+}
+.main-content{
+    text-align: center;
+}
+.main-content h1{
+    padding-top: 20px;
+}
+.jalur{
+    text-align: center;
+}
