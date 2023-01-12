@@ -1,0 +1,49 @@
+body{
+    font-family: 'Inter';
+}
+.bg-image {
+    text-align: center;
+    background: linear-gradient(rgba(255, 205, 69, 0.4),rgba(126, 55, 12, 0.4)), url('login-img.jfif');
+    /*background-image: url('login-img.jfif');*/
+    background-size: cover;
+    height: 100vh;
+    color:rgba(255, 206, 69, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bg-image h1 {
+  font-size: 100px;
+}
+.bg-image p{
+  font-size: 20px;
+}
+.logo img{
+  width: 100px;
+}
+.isi {
+    padding-top: 180px;
+}
+.login{
+    color: rgba(255, 206, 69, 1);
+    background-color: rgba(126, 55, 12, 1);
+    width: 250px;
+    height: 35px;
+    border-radius: 20px;
+    border: none;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .flex-left {
+    width: 50%;
+    height: 100vh;
+  }
+  
+  .flex-right {
+    color: rgba(126, 55, 12, 1);
+    width: 50%;
+
+  }
