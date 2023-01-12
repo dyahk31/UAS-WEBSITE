@@ -1,0 +1,40 @@
+/* manual */
+nav{
+    background-color: #7E370C;
+    height: 70px;
+}
+
+.nav-logo img{
+    width: auto;
+    height: 30px;
+    margin-bottom: -40px;
+    margin-left: 65px;
+}
+
+.nav-menu {
+    padding-left: 900px;
+    padding-bottom: 25px;
+}
+.nav-menu a{
+    text-decoration: none;
+    color: #FFCE45;
+    margin-right: 20px;
+    font-size: 14px;
+}
+
+/* styling bootstrap */
+.container-fluid img{
+    padding-left: 50px;
+}
+
+.nav-item {
+    padding-left: 20px;
+}
+
+.nav-item a{
+    color: #FFCE45;
+}
+
+#navbarNav {
+    margin-left: -450px;
+}
